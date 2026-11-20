@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040278
+# Name: NAVEENKUMAR V
+# Date: 20-11-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1242" height="898" alt="usecase" src="https://github.com/user-attachments/assets/b48f71ab-38d7-4934-80fd-ad9d09c30163" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1237" height="890" alt="class" src="https://github.com/user-attachments/assets/9932a366-46a3-42cd-9c08-1291bc9b4458" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1217" height="874" alt="comm" src="https://github.com/user-attachments/assets/be4f453e-43a5-47c7-880d-92a1a23218a0" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1235" height="872" alt="pack" src="https://github.com/user-attachments/assets/b628f885-c2d1-44dc-8499-ad4495d5df7f" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1199" height="858" alt="activity" src="https://github.com/user-attachments/assets/d100bc32-0358-41cd-a479-9c45abee763a" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1232" height="895" alt="seq" src="https://github.com/user-attachments/assets/cbdc3cb6-88b5-42d1-b288-d1133e684cf5" />
 
 
 
